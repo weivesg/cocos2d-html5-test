@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Object</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Start</string>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>End</string>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>26</integer>
+			</dict>
+		</array>
+		<key>Node</key>
+		<array>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>0</integer>
+				<key>Position</key>
+				<string>{ 0.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ 0.00,15.00 }</string>
+				<key>Category</key>
+				<integer>-1</integer>
+				<key>TextureID</key>
+				<integer>-1</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>1</integer>
+				<key>Position</key>
+				<string>{ 55.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>0</integer>
+				<key>TextureID</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>2</integer>
+				<key>Position</key>
+				<string>{ 110.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>TextureID</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>3</integer>
+				<key>Position</key>
+				<string>{ 165.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>TextureID</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>4</integer>
+				<key>Position</key>
+				<string>{ 220.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>18</integer>
+				<key>TextureID</key>
+				<integer>18</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>5</integer>
+				<key>Position</key>
+				<string>{ 275.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>4</integer>
+				<key>TextureID</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>6</integer>
+				<key>Position</key>
+				<string>{ 330.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>5</integer>
+				<key>TextureID</key>
+				<integer>5</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>7</integer>
+				<key>Position</key>
+				<string>{ 385.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>6</integer>
+				<key>TextureID</key>
+				<integer>6</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>8</integer>
+				<key>Position</key>
+				<string>{ 440.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>15</integer>
+				<key>TextureID</key>
+				<integer>15</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>9</integer>
+				<key>Position</key>
+				<string>{ 495.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>14</integer>
+				<key>TextureID</key>
+				<integer>14</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>10</integer>
+				<key>Position</key>
+				<string>{ 550.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>9</integer>
+				<key>TextureID</key>
+				<integer>9</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>11</integer>
+				<key>Position</key>
+				<string>{ 605.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>10</integer>
+				<key>TextureID</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>12</integer>
+				<key>Position</key>
+				<string>{ 660.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>11</integer>
+				<key>TextureID</key>
+				<integer>11</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>13</integer>
+				<key>Position</key>
+				<string>{ 715.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>TextureID</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>14</integer>
+				<key>Position</key>
+				<string>{ 770.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>12</integer>
+				<key>TextureID</key>
+				<integer>12</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>15</integer>
+				<key>Position</key>
+				<string>{ 825.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>13</integer>
+				<key>TextureID</key>
+				<integer>13</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>16</integer>
+				<key>Position</key>
+				<string>{ 880.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>TextureID</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>17</integer>
+				<key>Position</key>
+				<string>{ 935.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>2</integer>
+				<key>TextureID</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>18</integer>
+				<key>Position</key>
+				<string>{ 990.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>14</integer>
+				<key>TextureID</key>
+				<integer>14</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>19</integer>
+				<key>Position</key>
+				<string>{ 1045.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,15.00 }</string>
+				<key>Category</key>
+				<integer>4</integer>
+				<key>TextureID</key>
+				<integer>4</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>20</integer>
+				<key>Position</key>
+				<string>{ 1096.00,0.00 }</string>
+				<key>Offset</key>
+				<string>{ -10.00,0.00 }</string>
+				<key>Category</key>
+				<integer>5</integer>
+				<key>TextureID</key>
+				<integer>5</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>21</integer>
+				<key>Position</key>
+				<string>{ 1151.00,0.00 }</string>
+				<key>Offset</key>
+				<string>{ -16.00,0.00 }</string>
+				<key>Category</key>
+				<integer>6</integer>
+				<key>TextureID</key>
+				<integer>6</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>22</integer>
+				<key>Position</key>
+				<string>{ 1206.00,0.00 }</string>
+				<key>Offset</key>
+				<string>{ -16.00,0.00 }</string>
+				<key>Category</key>
+				<integer>7</integer>
+				<key>TextureID</key>
+				<integer>7</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>23</integer>
+				<key>Position</key>
+				<string>{ 1261.00,0.00 }</string>
+				<key>Offset</key>
+				<string>{ -16.00,0.00 }</string>
+				<key>Category</key>
+				<integer>18</integer>
+				<key>TextureID</key>
+				<integer>18</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>24</integer>
+				<key>Position</key>
+				<string>{ 1316.00,0.00 }</string>
+				<key>Offset</key>
+				<string>{ -16.00,0.00 }</string>
+				<key>Category</key>
+				<integer>9</integer>
+				<key>TextureID</key>
+				<integer>9</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>25</integer>
+				<key>Position</key>
+				<string>{ 1371.00,0.00 }</string>
+				<key>Offset</key>
+				<string>{ -16.00,0.00 }</string>
+				<key>Category</key>
+				<integer>0</integer>
+				<key>TextureID</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>1</integer>
+				<key>Step</key>
+				<integer>20</integer>
+				<key>Position</key>
+				<string>{ 1106.00,31.00 }</string>
+				<key>Offset</key>
+				<string>{ 0.00,31.00 }</string>
+				<key>Category</key>
+				<integer>11</integer>
+				<key>TextureID</key>
+				<integer>11</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>1</integer>
+				<key>Step</key>
+				<integer>21</integer>
+				<key>Position</key>
+				<string>{ 1161.00,31.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,31.00 }</string>
+				<key>Category</key>
+				<integer>15</integer>
+				<key>TextureID</key>
+				<integer>15</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>1</integer>
+				<key>Step</key>
+				<integer>22</integer>
+				<key>Position</key>
+				<string>{ 1216.00,31.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,31.00 }</string>
+				<key>Category</key>
+				<integer>13</integer>
+				<key>TextureID</key>
+				<integer>13</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>1</integer>
+				<key>Step</key>
+				<integer>23</integer>
+				<key>Position</key>
+				<string>{ 1271.00,31.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,31.00 }</string>
+				<key>Category</key>
+				<integer>14</integer>
+				<key>TextureID</key>
+				<integer>14</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>1</integer>
+				<key>Step</key>
+				<integer>24</integer>
+				<key>Position</key>
+				<string>{ 1326.00,31.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,31.00 }</string>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>TextureID</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>1</integer>
+				<key>Step</key>
+				<integer>25</integer>
+				<key>Position</key>
+				<string>{ 1381.00,31.00 }</string>
+				<key>Offset</key>
+				<string>{ -6.00,31.00 }</string>
+				<key>Category</key>
+				<integer>10</integer>
+				<key>TextureID</key>
+				<integer>10</integer>
+			</dict>
+			<dict>
+				<key>Branch</key>
+				<integer>0</integer>
+				<key>Step</key>
+				<integer>26</integer>
+				<key>Position</key>
+				<string>{ 1431.00,15.00 }</string>
+				<key>Offset</key>
+				<string>{ -11.00,15.00 }</string>
+				<key>Category</key>
+				<integer>17</integer>
+				<key>TextureID</key>
+				<integer>17</integer>
+			</dict>
+		</array>
+		<key>Texture</key>
+		<array>
+			<dict>
+				<key>TextureID</key>
+				<integer>-1</integer>
+				<key>TextureFileName</key>
+				<string>-1.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>0</integer>
+				<key>TextureFileName</key>
+				<string>0.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>1</integer>
+				<key>TextureFileName</key>
+				<string>1.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>2</integer>
+				<key>TextureFileName</key>
+				<string>2.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>3</integer>
+				<key>TextureFileName</key>
+				<string>3.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>4</integer>
+				<key>TextureFileName</key>
+				<string>4.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>5</integer>
+				<key>TextureFileName</key>
+				<string>5.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>6</integer>
+				<key>TextureFileName</key>
+				<string>6.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>7</integer>
+				<key>TextureFileName</key>
+				<string>7.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>8</integer>
+				<key>TextureFileName</key>
+				<string>8.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>9</integer>
+				<key>TextureFileName</key>
+				<string>9.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>10</integer>
+				<key>TextureFileName</key>
+				<string>10.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>11</integer>
+				<key>TextureFileName</key>
+				<string>11.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>12</integer>
+				<key>TextureFileName</key>
+				<string>12.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>13</integer>
+				<key>TextureFileName</key>
+				<string>13.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>14</integer>
+				<key>TextureFileName</key>
+				<string>14.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>15</integer>
+				<key>TextureFileName</key>
+				<string>15.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>16</integer>
+				<key>TextureFileName</key>
+				<string>16.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>17</integer>
+				<key>TextureFileName</key>
+				<string>17.png</string>
+			</dict>
+			<dict>
+				<key>TextureID</key>
+				<integer>18</integer>
+				<key>TextureFileName</key>
+				<string>18.png</string>
+			</dict>
+		</array>
+		<key>MapInfo</key>
+		<dict>
+			<key>MapSize</key>
+			<string>{ 1492.00,61.00 }</string>
+		</dict>
+	</dict>
+</plist>
